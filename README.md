@@ -15,10 +15,10 @@ This is a front-end-only project, built for learning and portfolio showcasing. I
 
 ## Project Structure
 
-.
 ├── index.html              # Main HTML layout  
 ├── style.css               # Styling and responsive design  
 ├── script.js               # JavaScript logic, DOM handling, iTunes API calls  
+├── requiredMedia/          # Local thumbnails and image files  
 └── README.md               # This documentation file
 
 ## How to Run
