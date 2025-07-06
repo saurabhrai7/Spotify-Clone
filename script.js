@@ -88,52 +88,52 @@ const TrendingSongs = [
     {
         title: "CourtSide",
         artist: "Karan Aujla, Signature By SB",
-        thumbnail: "./requiredMedia/TrendingSongs/CourtSide.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/CourtSide.jpeg"
     },
     {
         title: "Jhol - Acoustic",
         artist: "Maanu, Annural Khalid",
-        thumbnail: "./requiredMedia/TrendingSongs/Jhol.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/Jhol.jpeg"
     },
     {
         title: "Without Prejudice",
         artist: "Guru Randhawa",
-        thumbnail: "./requiredMedia/TrendingSongs/withoutPrejudice.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/withoutPrejudice.jpeg"
     },
     {
         title: "Minnalvala",
         artist: "Jakes Bejoy, Sid Sriram, Sithara Krishnakumar",
-        thumbnail: "./requiredMedia/TrendingSongs/Minnalvala.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/Minnalvala.jpeg"
     },
     {
         title: "Laal Pari",
         artist: "Yo Yo Honey Singh, Simar Kaur, Alfaaz",
-        thumbnail: "./requiredMedia/TrendingSongs/Laal Pari.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/Laal Pari.jpeg"
     },
     {
         title: "Pretty Little Baby",
         artist: "Connie Francis",
-        thumbnail: "./requiredMedia/TrendingSongs/PreetyLittleBaby.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/PreetyLittleBaby.jpeg"
     },
     {
         title: "Capital Rap",
         artist: "Seedhe Maut, Hurricane, DL91 Era, Lil Bhavi",
-        thumbnail: "./requiredMedia/TrendingSongs/CapitalRap.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/CapitalRap.jpeg"
     },
     {
         title: "Espresso",
         artist: "Sabrina Carpenter",
-        thumbnail: "./requiredMedia/TrendingSongs/Espresso.jpeg",
+        thumbnail: "requiredMedia/TrendingSongs/Espresso.jpeg",
     },
     {
         title: "STFU",
         artist: "AP Dhillon, Shinda Kahlon",
-        thumbnail: "./requiredMedia/TrendingSongs/stfu.jpeg",
+        thumbnail: "requiredMedia/TrendingSongs/stfu.jpeg",
     },
     {
         title: "Heat Waves",
         artist: "Glass Animals",
-        thumbnail: "./requiredMedia/TrendingSongs/HeatWaves.jpeg"
+        thumbnail: "requiredMedia/TrendingSongs/HeatWaves.jpeg"
     }
 ];
 
@@ -141,52 +141,52 @@ const TrendingSongs = [
 const BestEnglishSongs = [
     {
         title: "Anxiety",
-        thumbnail: "./requiredMedia/BestEnglishSongs/Anxiety.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/Anxiety.jpeg",
         artist: "Julia Michaels, Selena Gomez"
     },
     {
         title: "BIRDS OF A FEATHER",
-        thumbnail: "./requiredMedia/BestEnglishSongs/BirdFeather.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/BirdFeather.jpeg",
         artist: "Billie Eilish"
     },
     {
         title: "Die With A Smile",
-        thumbnail: "./requiredMedia/BestEnglishSongs/DieSmile.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/DieSmile.jpeg",
         artist: "Lady Gaga, Bruno Mars"
     },
     {
         title: "Kiss Me More",
-        thumbnail: "./requiredMedia/BestEnglishSongs/KissMeMore.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/KissMeMore.jpeg",
         artist: "Doja Cat, SZA"
     },
     {
         title: "Loose Control",
-        thumbnail: "./requiredMedia/BestEnglishSongs/LooseControl.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/LooseControl.jpeg",
         artist: "Meduza, Becky Hill, Goodboys"
     },
     {
         title: "Moon Light",
-        thumbnail: "./requiredMedia/BestEnglishSongs/MoonLight.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/MoonLight.jpeg",
         artist: "XXXTentacion"
     },
     {
         title: "Ordinary",
-        thumbnail: "./requiredMedia/BestEnglishSongs/Ordinary.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/Ordinary.jpeg",
         artist: "Alex Warren"
     },
     {
         title: "See You Again",
-        thumbnail: "./requiredMedia/BestEnglishSongs/SeeYouAgain.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/SeeYouAgain.jpeg",
         artist: "Wiz Khalifa, Charlie Puth"
     },
     {
         title: "That's So True",
-        thumbnail: "./requiredMedia/BestEnglishSongs/That'sSoTrue.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/That'sSoTrue.jpeg",
         artist: "Gracie Abrams"
     },
     {
         title: "Undressed",
-        thumbnail: "./requiredMedia/BestEnglishSongs/undressed.jpeg",
+        thumbnail: "requiredMedia/BestEnglishSongs/undressed.jpeg",
         artist: "Kim Cesarion"
     }
 ];
