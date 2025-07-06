@@ -53,7 +53,7 @@ Endpoint: `https://itunes.apple.com/search?term={query}&entity=song&limit=10`
 - Only 30-second previews are available (iTunes limitation)  
 - CORS errors may occur depending on the browser and environment — use a proxy in production  
 - No backend features like playlists, likes, or user login
-- Not Responsive
+- Not fully Responsive
 
 ## Author
 
